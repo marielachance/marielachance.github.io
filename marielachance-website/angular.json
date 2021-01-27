@@ -131,5 +131,8 @@
       }
     }
   },
-  "defaultProject": "marielachance-website"
+  "defaultProject": "marielachance-website",
+  "cli": {
+    "analytics": false
+  }
 }
