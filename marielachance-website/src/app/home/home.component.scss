@@ -1,7 +1,7 @@
 .banner  {
   background-size: cover;
   background-image: url(../../assets/stephanieblue.jpg);
-  background-position: center;
+  background-position: right;
   background-repeat: no-repeat;
   position: fixed;
   top: -10px;
@@ -15,4 +15,8 @@
 .big-title {
   margin: 0;
   text-align: center;
+}
+
+mat-icon.fab {
+  font-size: 15pt;
 }
